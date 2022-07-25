@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/angrezi-cinema/static/css/main.b2586571.css",
+    "main.js": "/angrezi-cinema/static/js/main.c7a8223a.js",
+    "index.html": "/angrezi-cinema/index.html",
+    "main.b2586571.css.map": "/angrezi-cinema/static/css/main.b2586571.css.map",
+    "main.c7a8223a.js.map": "/angrezi-cinema/static/js/main.c7a8223a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.c7a8223a.js"
+  ]
+}
