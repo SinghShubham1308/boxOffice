@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/angrezi-cinema/static/css/main.b2586571.css",
-    "main.js": "/angrezi-cinema/static/js/main.c7a8223a.js",
-    "index.html": "/angrezi-cinema/index.html",
-    "main.b2586571.css.map": "/angrezi-cinema/static/css/main.b2586571.css.map",
-    "main.c7a8223a.js.map": "/angrezi-cinema/static/js/main.c7a8223a.js.map"
+    "main.css": "/boxOffice/static/css/main.b2586571.css",
+    "main.js": "/boxOffice/static/js/main.f57b07a7.js",
+    "index.html": "/boxOffice/index.html",
+    "main.b2586571.css.map": "/boxOffice/static/css/main.b2586571.css.map",
+    "main.f57b07a7.js.map": "/boxOffice/static/js/main.f57b07a7.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.c7a8223a.js"
+    "static/js/main.f57b07a7.js"
   ]
 }
